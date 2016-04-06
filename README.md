@@ -1,7 +1,7 @@
 # David-Banu-Portfolio
 ## Synopsis
 
-This is my personal website. You can find it at [davidbanu](https://www.davidbanu.com). I've build it with bootstrap, javascript, jquery, a little php for the forms, and less. It includes an About section, a Portfolio, a Skills and a Contact section.
+This is my personal website. I've build it with bootstrap, javascript, jquery, a little php for the forms, and less. It includes an About section, a Portfolio, a Skills and a Contact section.
 
 ## How to get this project
 If you want to copy and use this project, fork it.
