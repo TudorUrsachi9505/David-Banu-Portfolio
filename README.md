@@ -1,5 +1,5 @@
 # David-Banu-Portfolio
-![alt tag](https://github.com/davidbanu/David-Banu-Portfolio/tree/master/img/davidbanu.png)
+![alt tag](https://github.com/davidbanu/David-Banu-Portfolio/blob/master/img/davidbanu.png)
 ## Synopsis
 
 This is my personal website. I've build it with bootstrap, javascript, jquery, a little php for the forms, and less. It includes an About section, a Portfolio, a Skills and a Contact section.
